@@ -1,32 +1,33 @@
 
-# OptiLauncherU
+# OptiLauncherU English Edition
 
-Este repositorio contiene el source code del launcher 
+This repository contains the source code of the launcher
+This is the English translation of OptiLauncherU
 
 
 
-
-## ¿Qué es?
-Este es un launcher diseñado para poder ejecutar la mayoría de versiones de Opticraft, Ya sea Opticraft Java u Opticraft Bedrock
+## What is it?
+This is a launcher designed to run most versions of Opticraft, either Opticraft Java or Opticraft Bedrock
 
 ## FAQ
 
-#### ¿Cada cuanto se actualizara el launcher?
+#### How often will the launcher be updated?
 
-El launcher se actualizará cuando salga una nueva versión de OptiCraft, Por ej. Opticraft BE1.21, luego de eso, si no se encuentran bugs, no se actualizará el launcher
+The launcher will be updated when a new version of OptiCraft is released, eg. Opticraft BE1.21, after that, if no bugs are found, the launcher will not be updated
 
-#### ¿Cada cuanto se actualizara las versiones de opticraft?
+#### How often will the opticraft versions be updated?
 
-Las versiones de opticraft serán actualizadas hasta 24 horas después de que salga nueva versión 
+Opticraft versions will be updated up to 24 hours after the new version comes out
 
 
-## Autores
+## Authors
 
 - [@TheAnx](https://www.github.com/TheAnx) Discord: javier_mileiok
-- [@FrAndroidd](https://github.com/FrAndroidd) Discord: FrAndroidd
+- [@FrAndroidd](https://github.com/FrAndroidd) Discord: FrAndroid
+- [@NobleEpuz](https://github.com/NobleEpuz) Discord: nobleepuz
 - [Star] Discord: starx006
 
 
 
-## ATENCIÓN
-ESTE REPOSITORIO NO INCLUYE LOS CRACKS NI LOS JUEGOS, SOLO ES UN LAUNCHER PARA OPTICRAFT 
+## ATTENTION
+THIS REPOSITORY DOES NOT INCLUDE CRACKS OR GAMES, IT IS ONLY A LAUNCHER FOR OPTICRAFT

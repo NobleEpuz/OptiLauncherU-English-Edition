@@ -1,8 +1,7 @@
 
 # OptiLauncherU English Edition
 
-This repository contains the source code of the launcher
-This is the English translation of OptiLauncherU
+This repository contains the source code of the launcher, and this is the English translation of OptiLauncherU
 
 
 
